@@ -1,5 +1,7 @@
 ### Danny's Diner Case Study
 
+![image](https://github.com/user-attachments/assets/bdd9ab9f-597b-4701-9a4e-8c4b554da910)
+
 In this case study, I will be conducting some data analysis and answer the questions below using SQL.
 This was originally sourced from the [8-week SQL challenge.](https://8weeksqlchallenge.com/case-study-1/) by Danny Ma.
 Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/dhn07/) for any enquiries.
